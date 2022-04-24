@@ -16,10 +16,10 @@
 
   /***********************************/
   // Customise the app by changing the following variables.
-  const TITLE = "Shapes";
-  const DESCRTIPTION = "A collection of shapes on the blockchain";
-  const HEADER_TITLE = "shapes.xyz";
-  const HEADER_LINK = "https://solarare.com";
+  const TITLE = "Seanies";
+  const DESCRTIPTION = "Can't be deleted.";
+  const HEADER_TITLE = "Seanies";
+  const HEADER_LINK = "https://seanies.art";
   // Your image or GIF needs to be in the /public folder for this to work
   const IMAGE_LINK = "/example.gif";
   /***********************************/
