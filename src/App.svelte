@@ -21,7 +21,7 @@
   const HEADER_TITLE = "Seanies";
   const HEADER_LINK = "https://seanies.art";
   // Your image or GIF needs to be in the /public folder for this to work
-  const IMAGE_LINK = "/example.gif";
+  const IMAGE_LINK = "/seanies-600.gif";
   /***********************************/
 
   let { solana } = window as any;
