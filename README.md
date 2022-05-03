@@ -28,7 +28,7 @@ Populate with your Google Analytics Measurement ID (in the format G-XXXXXXXXXX)
 - VITE_APP_GOOGLE_ANALYTICS=
 ```
 
-### Example configuration
+### Example configuration 
 Devnet:
 ```
 - VITE_APP_SOLANA_NETWORK=devnet
